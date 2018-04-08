@@ -1,3 +1,5 @@
-console.error("HALP!")
-console.log("this is a log")
-console.warn("this is warning! Don't do it!")
+var word 
+word = 'bird'
+console.log(word)
+world = 'dog'
+console.log(word)
